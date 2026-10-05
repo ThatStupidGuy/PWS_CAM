@@ -1,0 +1,1 @@
+NOISE_OFFSET = 0.1
